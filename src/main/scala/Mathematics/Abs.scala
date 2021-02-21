@@ -5,6 +5,7 @@ object Abs {
 	/**
 	    * Method returns absolute value of the number
 	    *
+	    *
 	    * @param Int
     	    * @return
     	*/
